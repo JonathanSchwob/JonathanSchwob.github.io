@@ -327,6 +327,8 @@
 		border-color: #666666;
 	}
 
+
+
 /* Button */
 
 	input[type="submit"],
@@ -1437,6 +1439,11 @@
 		}
 
 /* Main */
+
+	.map {
+		margin: 50px;
+		padding: 5%;
+	}
 
 	#main {
 		padding: 4em 4em 2em 4em;
