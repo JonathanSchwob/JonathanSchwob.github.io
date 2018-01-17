@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Pacifico|Source+Sans+Pro:200,400");
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
 
 /*
 	Epilogue by TEMPLATED
@@ -1379,11 +1379,11 @@
 			}
 
 			#header.alt h1 {
-				font-size: 4em;
+				font-size: 6em;
 				padding: 0 0.5em 0.25em 0.5em;
 				border-bottom: solid 2px #ffffff;
 				font-weight: 200;
-				font-family: "Pacifico", cursive;
+				font-family: "Tangerine", cursive;
 				text-transform: none;
 				letter-spacing: 0;
 			}
