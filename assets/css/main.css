@@ -1244,7 +1244,7 @@
 		background-image: url('../../images/bottomFlower.png');
 		background-repeat: no-repeat;
 		background-position: right bottom;
-		background-size: 380px 250px ;
+		background-size: 300px auto ;
 	}
 
 		#wrapper > .main {
