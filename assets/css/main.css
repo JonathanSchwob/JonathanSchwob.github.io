@@ -1241,9 +1241,10 @@
 		margin: 0 auto;
 		max-width: calc(100% - 4em);
 		padding: 4em 0 2em 0;
-		background-image: url('../../images/ban-right.png');
+		background-image: url('../../images/ban-right.png'), url('../../images/bottomFlower.png'), url('../../images/flower3.png');
 		background-repeat: no-repeat;
-		background-position: center top;
+		background-position: center top, right bottom, left bottom;
+		background-size: auto ,380px 250px, 380px 350px; 
 	}
 
 		#wrapper > .main {
