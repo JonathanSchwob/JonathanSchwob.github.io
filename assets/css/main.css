@@ -1241,10 +1241,10 @@
 		margin: 0 auto;
 		max-width: calc(100% - 4em);
 		padding: 4em 0 2em 0;
-		background-image: url('../../images/ban-right.png'), url('../../images/bottomFlower.png');
+		background-image: url('../../images/bottomFlower.png');
 		background-repeat: no-repeat;
-		background-position: center top, right bottom;
-		background-size: auto ,380px 250px ;
+		background-position: right bottom;
+		background-size: 380px 250px ;
 	}
 
 		#wrapper > .main {
@@ -1379,8 +1379,8 @@
 			}
 
 			#header.alt h1 {
-				font-size: 6em;
-				padding: 0 0.5em 0.25em 0.5em;
+				font-size: 5em;
+				padding: 0 0.5em 0 0.5em;
 				border-bottom: solid 2px #ffffff;
 				font-weight: 200;
 				font-family: "Tangerine", cursive;
@@ -1551,7 +1551,6 @@ background-size:100px 100px; */
 	#cta {
 		padding: 2em 0 0.1em 0;
 		text-align: center;
-		margin-top: 175px;
 	}
 
 		@media screen and (max-width: 736px) {
